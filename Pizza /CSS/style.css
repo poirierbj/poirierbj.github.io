@@ -1,0 +1,10 @@
+.logo{
+  height: 50px;
+  width: auto;
+
+}
+
+@media (max-width:775px){
+.logo{visibility: hidden;
+}
+}
